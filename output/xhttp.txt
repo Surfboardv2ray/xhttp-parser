@@ -10,11 +10,9 @@ vless://Parsashonam-298@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam
 vless://a6580107-b1e0-4057-9f47-ac7f28de457a@91.107.254.202:8443?type=xhttp&path=/@CUSTOMVPNSERVER---@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER------@CUSTOMVPNSERVER---&host=firebase.googleapis.com&mode=auto&security=reality&pbk=4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4&fp=chrome&sni=firebase.googleapis.com&sid=7ab467&spx=/#🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 17
 vless://ViP_Fragmemt_V2ray@nl.2.tryfreenet24.xyz:8023?mode=auto&path=/@U3er1&security=reality&encryption=none&pbk=IeLdc7dCgdzACeAK1wq4rxuuBmp9kTh4Wq_pjZhJeXo&host=www.speedtest.net&fp=chrome&spx=/HiCPdGMQ1LBImzd&type=xhttp&sni=zhaket.xom&sid=62e9#❔XX | 🔴 | vless | @prrofile_purple | 130
 vless://089ab4d4-758d-4f97-8f5d-0d16b75a7056@151.101.129.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#t.me/StoryFake
-vless://0a49d081-6420-40ad-8ba5-8dc38be9d670@151.101.129.194:80?mode=auto&path=/TignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://0d482f53-d06f-4583-80b2-b12c9072afc6@50.116.41.209:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=/sreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#@V2rayNG3
 vless://0f3ab1b4-3cd2-4e5e-ac12-25efbe4a36ea@157.180.19.140:443?type=xhttp&path=/@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala----@cephalon_ala&host=stackoverflow.com&mode=auto&security=reality&pbk=2760Jz3dYgybn1MDTT2dsr5WAKPPTPnTnmsjWjJbFzU&fp=chrome&sni=stackoverflow.com&sid=21#🚸 Cephalon_ala-[21]
-vless://1515087c-5397-4b99-9f89-675a7ab1015c@151.101.193.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#ConfigV2RayNG
 vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L565
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@146.75.64.0:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=none&encryption=none&host=sudo2018.ir&type=xhttp#@free_shekan
 vless://1a921231-3cae-4948-9088-cfb18d0bf87c@50.116.37.78:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L190
@@ -73,9 +71,6 @@ vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.233.183.212:443?type=xhttp&path
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.233.178.134:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L597
-vless://317d5d04-6bac-4af5-8bc4-92d6512c4dfe@94.183.172.123:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=xhttp&mode=auto&host=Telewebion.com&path=/api&security=reality&fp=chrome&sni=telewebion.com&pbk=BTZtlolTTHLUGpQ_6-jNFIuOlzZSY7bTFyMtIppoJRk&sid=1c50a352e9&spx=/#@GozargahAzad|🇮🇷
-vless://317d5d04-6bac-4af5-8bc4-92d6512c4dfe@94.183.172.123:2083?encryption=none&type=xhttp&mode=auto&host=Telewebion.com&path=/api&security=reality&fp=chrome&sni=telewebion.com&pbk=BTZtlolTTHLUGpQ_6-jNFIuOlzZSY7bTFyMtIppoJRk&sid=1c50a352e9&spx=/#@Proxyiranip
-vless://317d5d04-6bac-4af5-8bc4-92d6512c4dfe@94.183.172.123:2083?encryption=none&type=xhttp&mode=auto&host=Telewebion.com&path=/api&security=reality&fp=chrome&sni=telewebion.com&pbk=BTZtlolTTHLUGpQ_6-jNFIuOlzZSY7bTFyMtIppoJRk&sid=1c50a352e9&spx=/#@filembad
 vless://317d5d04-6bac-4af5-8bc4-92d6512c4dfe@94.183.172.123:2083?encryption=none&type=xhttp&mode=auto&host=Telewebion.com&path=/api&security=reality&fp=chrome&sni=telewebion.com&pbk=BTZtlolTTHLUGpQ_6-jNFIuOlzZSY7bTFyMtIppoJRk&sid=1c50a352e9&spx=/#VayNora
 vless://327df0a8-741f-4d35-aa07-ee653174889e@172.237.128.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L885
 vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
@@ -114,7 +109,6 @@ vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@96.126.126.174:443?type=xhttp&path=
 vless://4d63dcc0-d836-4101-9618-a15306d5d8ba@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://4ed8fd78-f50a-4dfb-bf88-da2394652ca0@69.164.207.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L789
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#@V2rayNG3
-vless://54dda10d-2e34-b42c-2d5d-2acc363de909@hub2.g-movie.ir:80?mode=stream-up&path=/playonline&security=none&encryption=none&extra={"headers":{},"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=www.gmovie.ir&type=xhttp#🧢-@turbov2box
 vless://58483a1e-6bab-4948-9602-dee06a47bc64@cdn1.glitchfm.ir:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=nl4.torbixplus.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nl4.torbixplus.ir#v2rayNplus 12
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L437
@@ -133,7 +127,6 @@ vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.197.10:443?type=xhttp&path=
 vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@69.164.205.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L982
 vless://6fee3115-e2db-4b44-b6f0-68cd4135da2f@172.233.160.243:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L844
 vless://76083baf-1fb7-44d0-b241-2d9af1191621@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#V2rayng_Fast
-vless://76083baf-1fb7-44d0-b241-2d9af1191621@151.101.193.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#🐦‍🔥-@SPEEDS_VPN
 vless://7b0f240f-db1f-4660-b7f5-65612612769f@157.180.75.119:8080?type=xhttp&path=/cephalon&host=tgju.org&mode=auto&security=reality&pbk=6evIKHcL0ZpiQwQcmajz1PlIaS1DdLKFn-mEQGBbFU8&fp=chrome&sni=tgju.org&sid=5586&spx=/#🚸 Cephalon_ala-[31]
 vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.1.105:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L389
 vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.114.187:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L988
@@ -141,7 +134,6 @@ vless://7e39161f-e79f-40aa-9a4d-f85684cb820e@151.101.1.194:80?mode=auto&path=/Ti
 vless://7e39161f-e79f-40aa-9a4d-f85684cb820e@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@netishield
 vless://7e39161f-e79f-40aa-9a4d-f85684cb820e@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#https://
 vless://7e39161f-e79f-40aa-9a4d-f85684cb820e@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#⚡Telegram = @SOSkeyNET
-vless://7e39161f-e79f-40aa-9a4d-f85684cb820e@151.101.1.194:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#✅@AR14N24b
 vless://81662e2a-0bcb-4024-a787-c7e0552a5139@172.232.164.142:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L195
 vless://8196d16d-855b-42bc-80f4-b5db138c5572@172.64.152.23:443?mode=auto&path=/randomibash043&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=test2.testrobot.site&fp=chrome&type=xhttp&allowInsecure=1&sni=test2.testrobot.site#v2rayNplus 5
 vless://8cbec16e-e110-4ebc-8ae4-827258c4fcb2@172.233.151.82:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L53
@@ -150,8 +142,6 @@ vless://8feb77b2-c855-4aeb-8378-f93cf1985b9b@www.internetwebhub.blog:8880?encryp
 vless://92ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#@EuServer
 vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://957d0930-8730-4923-b58c-6c0d640418bd@151.101.0.10:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=goraz.global.ssl.fastly.net&type=xhttp#Telegram : @V2ynpv
-vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@ap.panel.iran-rom.ir:2085?mode=auto&security=reality&encryption=none&pbk=AV0O-Ok7u6XmPUq_8mYIaOsRFx7n5_CPvW7WAwB9OwQ&host=anten.ir&fp=chrome&type=xhttp&sni=azaronline.com,tgju.org&sid=abab4bcf8b11294e#وصل شدی بیا کانالمون@ConfigV2RayNG
-vless://9d67ed3c-4ad0-4eee-87a0-544d13fd619e@eq.user.iran-rom.ir:2082?mode=auto&security=reality&encryption=none&pbk=8SJdnmkknRBqXSLFZY1yKu4dj1sUXPgt-WXb7gQIsQA&host=baam.bmi.ir&fp=chrome&type=xhttp&sni=excoino.com&sid=d542692c1da913f9#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b21@104.21.48.1:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b29@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
@@ -162,7 +152,6 @@ vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@104.21.48.1:443?mode=packet-up&path
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
 vless://9ecf7d69-b654-410f-8067-bfc16ad38572@172.233.157.213:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L683
 vless://@datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
-vless://TMG_7f36cec857e@138.124.80.238:443?mode=auto&path=/eqUejKNjFG2-DuX&security=reality&encryption=none&pbk=Y2PlhXhQKh-r1-KaY1VimxWpIzQ7D0FqkDio14qrzxo&host=www.kinopoisk.ru&fp=chrome&spx=/&type=xhttp&sni=www.kinopoisk.ru&sid=3b7620837ebdb5#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://TMG_7f36cec857e@138.124.80.238:443?type=xhttp&security=reality&path=/eqUejKNjFG2-DuX&sni=www.kinopoisk.ru&fp=chrome&pbk=Y2PlhXhQKh-r1-KaY1VimxWpIzQ7D0FqkDio14qrzxo&sid=3b7620837ebdb5#@Trick_mobil
 vless://Telegram : @datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#⚡️Telegram = @datax_proxy
 vless://Telegram : @datax_proxy@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxlondon.global.ssl.fastly.net&type=xhttp#🇬🇧 Telegram = @datax_proxy
@@ -183,8 +172,8 @@ vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@45.130.125.160:2096?mode=auto&path=
 vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@file.data-recive.ir:2096?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=finmk212.data-recive.ir&type=xhttp&allowInsecure=0&sni=finmk212.data-recive.ir#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.233.173.124:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L395
 vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.143.100:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L104
-vless://a5694222-f90c-4423-ae93-434bcb4ece38@70.34.201.158:9130?mode=stream-up&path=/api/stream&security=reality&encryption=none&extra={"scMaxEachPostBytes": 16777216, "scMaxConcurrentPosts": 1024, "scMinPostsIntervalMs": 1, "xPaddingBytes": "200-2000", "noGRPCHeader": true}&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&host=tgju.org&fp=chrome&type=xhttp&sni=mdundo.com#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#@V2rayNG3
+vless://a9f312c8-2f5d-41fa-8164-faf70df239e2@81.12.35.97:80?mode=stream-one&path=/&security=&encryption=none&type=xhttp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://a9fb751f-26c2-45fa-9480-8b9ac8a8a511@python.org:80?mode=auto&path=/datax_proxy&security=none&encryption=none&host=dataxamsterdam.global.ssl.fastly.net&type=xhttp#telegram : @datax_proxy
 vless://aa302418-508d-0bb8-885e-c8418e6956bd@109.120.189.112:51006?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=xhttp&path=/&mode=packet-up&extra=null#https://t.me/allproconf
 vless://b7ee8185-a285-7f38-4e42-411da1656523@cf1.bntabriz.ir:443?mode=packet-up&path=/mitivpn&security=tls&alpn=h2&encryption=none&extra={"headers":{}}&insecure=0&host=de.www.hitgram.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.www.hitgram.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️360🌐🆕️
@@ -201,7 +190,6 @@ vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc4@104.21.48.1:2083?mode=auto&path=/gd
 vless://c72ad53d-02e9-45a8-bb28-cee88f384fdd@95.135.60.13:4646?type=xhttp&encryption=none&path=/@bitnetvpn&host=bitnetvpn.com&mode=auto&security=none#🇵🇱_BITNETvpn_GIFT-250G-4
 vless://caa43c09-4c2a-4000-9e00-7d8a7030385a@www.fast.hosting-ip.com:80?host=www.lkjna64.com&mode=auto&path=/sedrepellendusmolestias&security=none&type=xhttp#@Ahmedhamoomi_Servers
 vless://cbf73250-e228-4fc8-95a1-3804176354be@ip4.gptban.com:80?mode=auto&path=/dl?ed=2560&security=none&encryption=none&host=AfraPanellosiris.global.ssl.fastly.net&type=xhttp#@v2ray_proxy_npv+❄️+@ClouddVPN
-vless://ceb9feae-27a3-4be6-8e68-5e4bc277f46c@151.101.193.194:80?mode=auto&path=/TignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://cf25f9d0-408f-1142-30aa-01ead41c420d@151.101.9.81:80?mode=auto&path=/assets/css/style.css?ed&security=none&encryption=none&host=grokgpt.ai&type=xhttp#🚀 Telegram = @v2ray_configs_pools
 vless://cf25f9d0-408f-1142-30aa-01ead41c420d@151.101.9.81:80?mode=auto&path=/assets/css/style.css?ed=2080&security=none&encryption=none&host=grokgpt.ai&type=xhttp#⚡️𝙁𝙖𝙨𝙩𝙡𝙮 𓏺 🇩🇪azadiiivpn
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=/compass/cdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#فیلترشکن رایگان👈vpnowl@
@@ -210,7 +198,6 @@ vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&path=/compass/cdn&security=none
 vless://d417cebd-ae4f-4555-92bb-1d76570aafc1@172.236.111.246:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L661
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#@Golestan_VPN - 🦁☀️
 vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl?ed=2560&security=none&encryption=none&extra={"downloadSettings":{"address":"188.244.122.136","port":443,"network":"xhttp","security":"tls","tlsSettings":{"serverName":"s1.utuvpn.org","fingerprint":"chrome"},"xhttpSettings":{"path":"/dl?ed=2560","host":"s1.utuvpn.org","mode":"auto"}}}&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#v2rayNplus 11
-vless://d9bddbc8-7d3a-498c-92b5-f19e61d9cc71@151.101.129.194:80?mode=auto&path=/TignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#@v2rayngzendegimamad🕊️
 vless://dabf1935-1ccd-41ca-b411-341ea674d8ef@jolbon4.mojtabajeab.ir:443?mode=auto&path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=oin.jahan-store.ir#Telegram : @V2ynpv
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=/&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#Telegram : @V2ynpv
@@ -219,8 +206,6 @@ vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&secur
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2rayNG3
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2ray_NG
-vless://df4f171a-b4f2-40ee-9a00-c3090e29b490@151.101.1.194:80?encryption=none&type=xhttp&mode=auto&host=zwolfz.global.ssl.fastly.net&path=/wolfi?ed=512&security=none#✅@AR14N24b
-vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@ep.tehrantolidi.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=www.designseda.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=65kcnqjbg1.designseda.ir#وصل شدی بیا کانالمون@ConfigV2RayNG
 vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L573
 vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=Telegram=@N3TWRK&sni=DE-23.85858569.XYZ&fp=chrome&mode=stream-up&alpn=h2,h3#Join 👽 @N3TWRK
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c23.prodnsspeed10.ir:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=bloue-de.gozarcloud.ir&type=xhttp&allowInsecure=0&sni=bloue-de.gozarcloud.ir#🚀 Telegram = @v2ray_configs_pools
@@ -232,7 +217,6 @@ vless://e28d3c04-3c60-4315-a46f-2ff41d21e66e@25.129.199.12:2052?encryption=none&
 vless://ee459310-2b43-43b6-9b8c-9cdff0976f62@ir.phonoma.ir:80?mode=auto&path=/&security=none&encryption=none&host=XDs13jkdFasxcl2gKKl.global.ssl.fastly.net&type=xhttp#azadiiivpn 🎀
 vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.38.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L103
 vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.62.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L29
-vless://f60abda8-7bd7-4341-b0ae-a842a714f8ea@151.101.129.194:80?encryption=none&security=none&type=xhttp&host=tignaltofan.global.ssl.fastly.net&path=/TignaliSWithYou&mode=auto#@Proxyiranip
 vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.136.103:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L459
 vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.145.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L973
 vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L742
